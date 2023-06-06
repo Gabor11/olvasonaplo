@@ -1,7 +1,7 @@
 Bemutatkozás
 ============
 
-.. image:: pics/profilkep.png
+.. image:: /_docs/pics/profilkep.png
     :width: 360
 	:alt: önarckép helye
 	

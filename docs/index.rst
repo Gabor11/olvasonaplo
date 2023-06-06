@@ -1,9 +1,9 @@
 Bemutatkozás
 ============
 
-.. image:: /_docs/pics/profilkep.png
-    :width: 360
-	:alt: önarckép helye
+.. image:: pics/profilkep.png
+ :width: 360
+ :alt: önarckép helye
 	
 **Vagyok, aki vagyok...**
 

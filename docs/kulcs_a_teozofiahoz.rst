@@ -12,8 +12,11 @@ Rögtön a borító alatt a következő indamintás keretezésű szövegre bukka
 +------------------------------------------------------+
 |  A Teozófiai Társaság küldetése:                     |
 +======================================================+
-| | Az emberiség szolgálata az **Időtlen Bölcsesség**    |
-| | egyre mélyebb megértésén, minden **élet egységének** |
-| | felismerésén és **a spirituális önfejlesztés**       |
-| | gyakorlati alkalmazásán keresztül.                   |
+| Az emberiség szolgálata az **Időtlen Bölcsesség**    |
+|                                                      |
+| egyre mélyebb megértésén, minden **élet egységének** |
+|                                                      |
+| felismerésén és **a spirituális önfejlesztés**       |
+|                                                      |
+| gyakorlati alkalmazásán keresztül.                   |
 +------------------------------------------------------+
